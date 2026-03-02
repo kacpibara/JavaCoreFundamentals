@@ -27,7 +27,8 @@ public class Main {
 
         }
 
-        System.out.println(sb.toString());
+        String result =  sb.toString();
+        System.out.println(result);
 
 
     }

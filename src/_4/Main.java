@@ -10,10 +10,11 @@ public class Main {
         List<String> strings = new ArrayList<>();
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
-
-        while(strings.size()<5){
+        System.out.println("Podaj zakres");
+        int n = scanner.nextInt();
+        for(int i = 0; i < n; i++) {
             System.out.println("Enter a string: ");
-            String string = scanner.nextLine();
+            String string = scanner.next();
             strings.add(string);
         }
 

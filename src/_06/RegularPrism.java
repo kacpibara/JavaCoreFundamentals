@@ -1,4 +1,4 @@
-package _6;
+package _06;
 
 public record RegularPrism(int baseSides, double baseEdge, double height) {}
 //public class RegularPrism {

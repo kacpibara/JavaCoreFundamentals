@@ -33,6 +33,5 @@ public class Main {
 
         System.out.println("The vault is completely empty. Time to run!");
 
-
     }
 }

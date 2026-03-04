@@ -1,4 +1,4 @@
-package _7;
+package _07;
 
 public class Rectangle implements Shape {
     private double a, b;

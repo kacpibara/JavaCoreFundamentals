@@ -1,4 +1,4 @@
-package _8;
+package _08;
 
 public class MainArray {
     public static void main(String[] args) {

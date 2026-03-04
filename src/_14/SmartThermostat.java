@@ -1,4 +1,4 @@
-package _014;
+package _14;
 
 public class SmartThermostat implements SmartDevice{
     double currentTemp;

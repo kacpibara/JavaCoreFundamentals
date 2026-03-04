@@ -1,4 +1,4 @@
-package _014;
+package _14;
 
 public class SmartBulb implements SmartDevice{
     private String color;

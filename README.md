@@ -5,7 +5,7 @@ Welcome to my **Java Core Fundamentals** repository! This project is a comprehen
 ## Project Overview
 This repository contains solutions to a variety of programming challenges, ranging from basic control flow to advanced object-oriented design and modern Java features (Java 8+). It serves as both a learning sandbox and a reference library for my coding journey.
 
-## 🛠Technologies & Concepts Covered
+## Technologies & Concepts Covered
 * **Core Java:** Arrays, Loops (`for`, `for-each`, `while`), `switch` statements.
 * **OOP (Object-Oriented Programming):** Interfaces, Polymorphism, Encapsulation.
 * **Modern Java (Java 8 - 10+):** * Lambda Expressions
@@ -57,3 +57,4 @@ Task - List
 29. Podaj przykłady zastosowania słowa kluczowego var w języku Java (wymaga Java 10+). Jak ma się ono do mocnej kontroli typologicznej oraz analogicznego słowa w JavaScript?
 
 30. Przygotuj program porównujący wydajność różnego rodzaju pojemników (np. lista, mapa, zbiór) w operacjach wstawiania, dodawania, wyszukiwania oraz usuwania elementów.
+

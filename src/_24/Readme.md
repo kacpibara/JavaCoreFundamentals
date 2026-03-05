@@ -1,0 +1,4 @@
+W starych wersjach Javy (przed Javą 7) po otworzeniu pliku, połączeniu z bazą danych czy otwarciu strumienia sieciowego, trzeba było
+zawsze pamiętać o jego ręcznym zamknięciu w bloku finally. Jeśli o tym zapomniałeś, program blokował plik (tzw. wyciek pamięci / resource leak). Kod wyglądał brzydko i był pełen zagnieżdżonych bloków try-catch.
+
+try-with-resources to "sprzątaczka". Wrzucasz otwarcie pliku w nawiasy okrągłe: try (OtwieramPlik) { ... }, a Java obiecuje Ci: "Cokolwiek się tu wydarzy – czy program zadziała, czy wybuchnie błędem – ja na samym końcu automatycznie zamknę ten plik za Ciebie!".
